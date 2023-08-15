@@ -26,7 +26,7 @@ WHEN I click on the links in the Table of Contents<br />
 THEN I am taken to the corresponding section of the README<br />
 
 ## **Links to Portfolio**
-* GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge9
+* GitHub Repository Link - https://github.com/LawthouaMXiong/READMEGenerator
 
 ## **Demo**
 ![Demo for challenge](/demo/Challenge%209.gif)
